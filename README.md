@@ -1,11 +1,18 @@
-<h1 align="center">🙃</h1>
+### Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/rekkido">GitHub</a>
-  <a href="https://www.linkedin.com/in/borisenkovdv">Linkedin</a>
-</p>
+#### I'm a Quality Assurance Engineer
 
-<!---
-rekkido/rekkido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### NOW
+
+- Planing to move somewhere safe and stay for a long time;
+- Currently working remotely from 🇹🇷 Türkiye
+- Playing PS5 🎮
+
+##### BIO
+
+- 🏢 I'm currently working at **OZON Tech** (big e-commerce)
+- ⚙️ Doing Manual mobile testing: Android, iOS
+- ✍️ Writing Automation Tests: `.kt`, `.swift`, `.py`
+- 🤏 Also using `Allure`, `Charles`, `Postman`, `Xcode`, `Android Studio`, `DataGrip`
+- 🌐 Connect here: [https://www.linkedin.com/in/borisenkovdv/](https://www.linkedin.com/in/borisenkovdv/)
+- ⚡️ Huge fan of Soulsborne
