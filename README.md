@@ -1,8 +1,11 @@
-- 👋 Hi, I’m %username%
-- 👀 I’m interested in %interestingthings%
-- 🌱 I’m currently learning %everything%
+<h1 align="center">🙃</h1>
+
+<p align="center">
+  <a href="https://github.com/rekkido">GitHub</a>
+  <a href="https://www.linkedin.com/in/borisenkovdv">Linkedin</a>
+</p>
 
 <!---
-Dikker425/Dikker425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rekkido/rekkido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
