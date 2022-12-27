@@ -14,5 +14,5 @@
 - ⚙️ Doing Manual mobile testing: Android, iOS
 - ✍️ Writing Automation Tests: `.kt`, `.swift`, `.py`
 - 🤏 Also using `Allure`, `Charles`, `Postman`, `Xcode`, `Android Studio`, `DataGrip`
-- 🌐 Connect here: [https://www.linkedin.com/in/borisenkovdv/](https://www.linkedin.com/in/borisenkovdv/)
+- 🌐 Connect here: [linkedin](https://www.linkedin.com/in/borisenkovdv/)
 - ⚡️ Huge fan of Soulsborne
