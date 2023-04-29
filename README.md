@@ -5,7 +5,7 @@
 ##### NOW
 
 - Planing to move somewhere safe and stay for a long time;
-- Currently working remotely from 🇹🇷 Türkiye
+- Currently working remotely
 
 ##### BIO
 
